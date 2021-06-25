@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Short introduction
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bojana Marojevikj. I am a student at the Faculty of Computer Science and Engineering in Skopje.
+
 
 - I rock a great mustache
 - I'm extremely loyal to my family
