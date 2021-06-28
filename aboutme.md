@@ -6,6 +6,7 @@ subtitle: Short introduction
 
 My name is Bojana Marojevikj and I am currently 19 years old. I am a student at the Faculty of Computer Science and Engineering in Skopje.
 
+![Bojana](/assets/img/me.jpg)
 
 ### My story
 
