@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Find out more about me!
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
