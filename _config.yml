@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "bojana.marojevikj@students.finki.ukim.mk"
-  facebook: Bojana Marojevic
+  facebook: "https://www.facebook.com/marojevicb/"
   github: BojanaMarojevic
 #  medium: yourname
 #  reddit: yourname
