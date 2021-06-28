@@ -9,4 +9,4 @@ My name is Bojana Marojevikj and I am currently 19 years old. I am a student at 
 
 ### My story
 
-Here you can read more about [my high school education](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29), [my university education](https://beautifuljekyll.com/) or [my hobbies and passions](https://deanattali.com/).
+Here you can read more about [my high school education](https://bojanamarojevic.github.io/highschool/), [my university education](https://beautifuljekyll.com/) or [my hobbies and passions](https://deanattali.com/).
