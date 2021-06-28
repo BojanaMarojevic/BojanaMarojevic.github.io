@@ -16,7 +16,7 @@ author: Bojana Marojevikj
 navbar-links:
   About Me: "aboutme"
   Education:
-    - High School: "https://beautifuljekyll.com"
+    - High School: "highschool"
     - University: "https://www.markdowntutorial.com/"
   Hobbies and Passions: "https://deanattali.com"
 
