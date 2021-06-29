@@ -4,4 +4,28 @@ title: My website
 subtitle: Hello there! Welcome to my personal website!
 ---
 
-[**Find out more about me!**](https://bojanamarojevic.github.io/aboutme/)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+.moreinfo {
+text-align: center;
+font-size: 22px;
+}
+
+.images {
+display: flex;
+justify-content: center;
+}
+</style>
+    <meta charset="utf-8">
+</head>
+  <body>
+      <div class="images">
+        <div class="pic1"><img src="/assets/img/pic1me.png" alt="Me1"></div>
+        <div class="pic1"><img src="/assets/img/pic2me.png" alt="Me2"></div>
+        <div class="pic1"><img src="/assets/img/pic3me.png" alt="Me3"></div>
+    </div>
+      <div class="moreinfo"><p>Find out more <a href="https://bojanamarojevic.github.io/aboutme/">my about me</a>!</p></div>
+  </body>
+</html>
