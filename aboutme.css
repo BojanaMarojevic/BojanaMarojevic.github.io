@@ -1,8 +1,8 @@
-.intro{
+.intro, .moreinfo{
 text-align: center;
 }
 
-img
+.image
 {
 display: flex;
 justify-content: center;
